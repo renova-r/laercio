@@ -1,11 +1,13 @@
 Package: laercio
 Type: Package
-Title: Duncan test, Tukey test and Scott-Knott test.
-Version: 1.0-1
-Date: 2010-09-16
-Author: Laercio Junio da Silva <laerciojunio@yahoo.com.br>
+Title: Duncan Test, Tukey Test and Scott-Knott Test
+Version: 1.0.1.9001
+Authors@R: person(given = c("Laercio", "Junio", "da"), family = "Silva", role = c("aut", "cre"), email = "laerciojunio@yahoo.com.br")
 Maintainer: Laercio Junio da Silva <laerciojunio@yahoo.com.br>
-Description: The package contains functions to compare and group means.
+Description: Functions to compare and group means, providing the Duncan
+    test, the Tukey test and the Scott-Knott test as methods for fitted
+    analysis of variance models.
+    Compatibility updates by Renova.
 License: GPL (>= 3)
 Packaged: 2010-09-16 22:38:00 UTC; laercio
 Repository: CRAN
